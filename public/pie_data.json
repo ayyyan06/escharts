@@ -1,0 +1,117 @@
+{
+  "chartId": "624e6c9ec52ce51b78097b27",
+  "type": "Pie",
+  "cube": "AhdCubeData_100_3",
+  "name": {
+    "kk": "Тұтыну товарларының түрі бойынша тұтыну бағасының индексі. Өткен кезеңге есеп беру кезеңі",
+    "ru": "Индекс потребительских цен по типам потребительских товаров. Отчетный период к предыдущему периоду",
+    "en": "Consumer price index by consumer goods. Reporting period to the previous period"
+  },
+  "series": [
+    {
+      "index": 0,
+      "yAxis": 0,
+      "factorCode": null,
+      "name": {
+        "kk": "Тұтыну товарларының түрі бойынша тұтыну бағасының индексі. Өткен кезеңге есеп беру кезеңі",
+        "ru": "Индекс потребительских цен по типам потребительских товаров. Отчетный период к предыдущему периоду",
+        "en": "Consumer price index by consumer goods. Reporting period to the previous period"
+      },
+      "measure": {
+        "kk": null,
+        "ru": null,
+        "en": null
+      },
+      "type": null,
+      "color": null,
+      "detalization": null,
+      "dataLabel": {
+        "step": 1,
+        "enabled": true
+      },
+      "data": [
+        {
+          "id": null,
+          "value": 100.5,
+          "y": 100.5,
+          "z": null,
+          "region": null,
+          "color": "#44944A",
+          "outputs": {
+            "DateEnd": "2023-11-30",
+            "Kato": "5d63a5f214e768045818f411",
+            "ConsumerGoods": "624531ea82421717ccf62194"
+          },
+          "name": null
+        },
+        {
+          "id": null,
+          "value": 100.4,
+          "y": 100.4,
+          "z": null,
+          "region": null,
+          "color": "#E32636",
+          "outputs": {
+            "DateEnd": "2023-11-30",
+            "Kato": "5d63a5f214e768045818f411",
+            "ConsumerGoods": "624532b982421717ccf6220b"
+          },
+          "name": null
+        },
+        {
+          "id": null,
+          "value": 102,
+          "y": 102,
+          "z": null,
+          "region": null,
+          "color": "#f58516",
+          "outputs": {
+            "DateEnd": "2023-11-30",
+            "Kato": "5d63a5f214e768045818f411",
+            "ConsumerGoods": "624532b982421717ccf6220a"
+          },
+          "name": null
+        }
+      ],
+      "useChangeIcon": null
+    }
+  ],
+  "categories": [
+    {
+      "code": "",
+      "kk": "Азық-түлік тауарлары",
+      "ru": "Продовольственные товары",
+      "en": ""
+    },
+    {
+      "code": "",
+      "kk": "Азық-түлік емес тауарлар",
+      "ru": "Непродовольственные товары",
+      "en": ""
+    },
+    {
+      "code": "",
+      "kk": "Ақылы қызметтер",
+      "ru": "Платные услуги",
+      "en": ""
+    }
+  ],
+  "valueAxises": [
+    {
+      "startOnZero": true
+    }
+  ],
+  "defaultOutputs": {
+    "DateEnd": "2023-11-30",
+    "Kato": "5d63a5f214e768045818f411",
+    "ConsumerGoods": "624532b982421717ccf6220a"
+  },
+  "detalization": null,
+  "scheme": null,
+  "approvementId": null,
+  "config": {
+    "register": {
+      "pageLimit": 0
+    }
+  }
+}

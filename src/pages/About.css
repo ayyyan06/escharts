@@ -1,0 +1,46 @@
+.about-container {
+  min-height: 90vh;
+  padding: 20px;
+  background-color: #f0f0f0;
+  padding-top: 50px;
+}
+
+/* Кнопки */
+.btns {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+.btns button {
+  padding: 8px 16px;
+  border: none;
+  background: #1f4fae;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+.btns button:hover {
+  background: #163a82;
+}
+
+/* Контейнер для ECharts */
+.echart-container {
+  width: 100%;
+  height: 900px;
+}
+
+/* 📱 Адаптив под смартфоны */
+@media (max-width: 768px) {
+  .echart-container {
+    height: 50vh;
+    min-height: 250px;
+  }
+
+  /* уменьшаем размер текста внутри графиков */
+  .echarts {
+    font-size: 10px !important;
+  }
+}

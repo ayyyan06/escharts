@@ -1,0 +1,312 @@
+{
+  "chartId": "61cbeb0b8242172f38cc8153",
+  "type": "Column",
+  "cube": "AhdCubeData_10_0",
+  "name": {
+    "kk": "ИФО валового регионального продукта",
+    "ru": "ИФО валового регионального продукта",
+    "en": "ИФО валового регионального продукта"
+  },
+  "series": [
+    {
+      "index": 2020,
+      "yAxis": 0,
+      "factorCode": null,
+      "name": {
+        "kk": "2020",
+        "ru": "2020",
+        "en": "2020"
+      },
+      "measure": {
+        "kk": null,
+        "ru": null,
+        "en": null
+      },
+      "type": null,
+      "color": "#44944A",
+      "detalization": null,
+      "dataLabel": null,
+      "data": [
+        {
+          "id": null,
+          "value": 95.8,
+          "y": 95.8,
+          "z": null,
+          "region": null,
+          "color": null,
+          "outputs": {
+            "DateEnd": "2020-03-31"
+          },
+          "name": null
+        },
+        {
+          "id": null,
+          "value": 89.1,
+          "y": 89.1,
+          "z": null,
+          "region": null,
+          "color": null,
+          "outputs": {
+            "DateEnd": "2020-06-30"
+          },
+          "name": null
+        },
+        {
+          "id": null,
+          "value": 88.8,
+          "y": 88.8,
+          "z": null,
+          "region": null,
+          "color": null,
+          "outputs": {
+            "DateEnd": "2020-09-30"
+          },
+          "name": null
+        },
+        {
+          "id": null,
+          "value": 89.2,
+          "y": 89.2,
+          "z": null,
+          "region": null,
+          "color": null,
+          "outputs": {
+            "DateEnd": "2020-12-31"
+          },
+          "name": null
+        }
+      ],
+      "useChangeIcon": null
+    },
+    {
+      "index": 2021,
+      "yAxis": 0,
+      "factorCode": null,
+      "name": {
+        "kk": "2021",
+        "ru": "2021",
+        "en": "2021"
+      },
+      "measure": {
+        "kk": null,
+        "ru": null,
+        "en": null
+      },
+      "type": null,
+      "color": "#E32636",
+      "detalization": null,
+      "dataLabel": null,
+      "data": [
+        {
+          "id": null,
+          "value": 95.3,
+          "y": 95.3,
+          "z": null,
+          "region": null,
+          "color": null,
+          "outputs": {
+            "DateEnd": "2021-03-31"
+          },
+          "name": null
+        },
+        {
+          "id": null,
+          "value": 99,
+          "y": 99,
+          "z": null,
+          "region": null,
+          "color": null,
+          "outputs": {
+            "DateEnd": "2021-06-30"
+          },
+          "name": null
+        },
+        {
+          "id": null,
+          "value": 99.9,
+          "y": 99.9,
+          "z": null,
+          "region": null,
+          "color": null,
+          "outputs": {
+            "DateEnd": "2021-09-30"
+          },
+          "name": null
+        },
+        {
+          "id": null,
+          "value": 100.6,
+          "y": 100.6,
+          "z": null,
+          "region": null,
+          "color": null,
+          "outputs": {
+            "DateEnd": "2021-12-31"
+          },
+          "name": null
+        }
+      ],
+      "useChangeIcon": null
+    },
+    {
+      "index": 2022,
+      "yAxis": 0,
+      "factorCode": null,
+      "name": {
+        "kk": "2022",
+        "ru": "2022",
+        "en": "2022"
+      },
+      "measure": {
+        "kk": null,
+        "ru": null,
+        "en": null
+      },
+      "type": null,
+      "color": "#f58516",
+      "detalization": null,
+      "dataLabel": null,
+      "data": [
+        {
+          "id": null,
+          "value": 102.4,
+          "y": 102.4,
+          "z": null,
+          "region": null,
+          "color": null,
+          "outputs": {
+            "DateEnd": "2022-03-31"
+          },
+          "name": null
+        },
+        {
+          "id": null,
+          "value": 101.2,
+          "y": 101.2,
+          "z": null,
+          "region": null,
+          "color": null,
+          "outputs": {
+            "DateEnd": "2022-06-30"
+          },
+          "name": null
+        },
+        {
+          "id": null,
+          "value": 102,
+          "y": 102,
+          "z": null,
+          "region": null,
+          "color": null,
+          "outputs": {
+            "DateEnd": "2022-09-30"
+          },
+          "name": null
+        },
+        {
+          "id": null,
+          "value": 102.4,
+          "y": 102.4,
+          "z": null,
+          "region": null,
+          "color": null,
+          "outputs": {
+            "DateEnd": "2022-12-31"
+          },
+          "name": null
+        }
+      ],
+      "useChangeIcon": null
+    },
+    {
+      "index": 2023,
+      "yAxis": 0,
+      "factorCode": null,
+      "name": {
+        "kk": "2023",
+        "ru": "2023",
+        "en": "2023"
+      },
+      "measure": {
+        "kk": null,
+        "ru": null,
+        "en": null
+      },
+      "type": null,
+      "color": "#34c3eb",
+      "detalization": null,
+      "dataLabel": null,
+      "data": [
+        {
+          "id": null,
+          "value": 101.7,
+          "y": 101.7,
+          "z": null,
+          "region": null,
+          "color": null,
+          "outputs": {
+            "DateEnd": "2023-03-31"
+          },
+          "name": null
+        },
+        {
+          "id": null,
+          "value": 103,
+          "y": 103,
+          "z": null,
+          "region": null,
+          "color": null,
+          "outputs": {
+            "DateEnd": "2023-06-30"
+          },
+          "name": null
+        },
+        null,
+        null
+      ],
+      "useChangeIcon": null
+    }
+  ],
+  "categories": [
+    {
+      "code": null,
+      "kk": "31.03",
+      "ru": "31.03",
+      "en": "31.03"
+    },
+    {
+      "code": null,
+      "kk": "30.06",
+      "ru": "30.06",
+      "en": "30.06"
+    },
+    {
+      "code": null,
+      "kk": "30.09",
+      "ru": "30.09",
+      "en": "30.09"
+    },
+    {
+      "code": null,
+      "kk": "31.12",
+      "ru": "31.12",
+      "en": "31.12"
+    }
+  ],
+  "valueAxises": [
+    {
+      "startOnZero": true
+    }
+  ],
+  "defaultOutputs": {
+    "DateEnd": "2023-06-30"
+  },
+  "detalization": null,
+  "scheme": null,
+  "approvementId": null,
+  "config": {
+    "register": {
+      "pageLimit": 0
+    }
+  }
+}

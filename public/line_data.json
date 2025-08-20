@@ -1,0 +1,290 @@
+{
+  "chartId": "61caf52782421722b06a9509",
+  "type": "Spline",
+  "cube": "AhdCubeData_10",
+  "name": {
+    "kk": "Валовой региональный продукт",
+    "ru": "Валовой региональный продукт",
+    "en": "Валовой региональный продукт"
+  },
+  "series": [
+    {
+      "index": 2020,
+      "yAxis": 0,
+      "factorCode": null,
+      "name": {
+        "kk": "2020",
+        "ru": "2020",
+        "en": "2020"
+      },
+      "measure": {
+        "kk": null,
+        "ru": null,
+        "en": null
+      },
+      "type": null,
+      "color": "#44944A",
+      "detalization": null,
+      "dataLabel": null,
+      "data": [
+        null,
+        null,
+        {
+          "id": null,
+          "value": 1183619.7,
+          "y": 1183619.7,
+          "z": null,
+          "region": null,
+          "color": null,
+          "outputs": {
+            "DateEnd": "2020-09-30"
+          },
+          "name": null
+        },
+        {
+          "id": null,
+          "value": 1677843,
+          "y": 1677843,
+          "z": null,
+          "region": null,
+          "color": null,
+          "outputs": {
+            "DateEnd": "2020-12-31"
+          },
+          "name": null
+        }
+      ],
+      "useChangeIcon": null
+    },
+    {
+      "index": 2021,
+      "yAxis": 0,
+      "factorCode": null,
+      "name": {
+        "kk": "2021",
+        "ru": "2021",
+        "en": "2021"
+      },
+      "measure": {
+        "kk": null,
+        "ru": null,
+        "en": null
+      },
+      "type": null,
+      "color": "#E32636",
+      "detalization": null,
+      "dataLabel": null,
+      "data": [
+        {
+          "id": null,
+          "value": 349882.2,
+          "y": 349882.2,
+          "z": null,
+          "region": null,
+          "color": null,
+          "outputs": {
+            "DateEnd": "2021-03-31"
+          },
+          "name": null
+        },
+        {
+          "id": null,
+          "value": 800004.7,
+          "y": 800004.7,
+          "z": null,
+          "region": null,
+          "color": null,
+          "outputs": {
+            "DateEnd": "2021-06-30"
+          },
+          "name": null
+        },
+        {
+          "id": null,
+          "value": 1296061.2,
+          "y": 1296061.2,
+          "z": null,
+          "region": null,
+          "color": null,
+          "outputs": {
+            "DateEnd": "2021-09-30"
+          },
+          "name": null
+        },
+        {
+          "id": null,
+          "value": 1878582.7,
+          "y": 1878582.7,
+          "z": null,
+          "region": null,
+          "color": null,
+          "outputs": {
+            "DateEnd": "2021-12-31"
+          },
+          "name": null
+        }
+      ],
+      "useChangeIcon": null
+    },
+    {
+      "index": 2022,
+      "yAxis": 0,
+      "factorCode": null,
+      "name": {
+        "kk": "2022",
+        "ru": "2022",
+        "en": "2022"
+      },
+      "measure": {
+        "kk": null,
+        "ru": null,
+        "en": null
+      },
+      "type": null,
+      "color": "#f58516",
+      "detalization": null,
+      "dataLabel": null,
+      "data": [
+        {
+          "id": null,
+          "value": 446210.2,
+          "y": 446210.2,
+          "z": null,
+          "region": null,
+          "color": null,
+          "outputs": {
+            "DateEnd": "2022-03-31"
+          },
+          "name": null
+        },
+        {
+          "id": null,
+          "value": 1009069.5,
+          "y": 1009069.5,
+          "z": null,
+          "region": null,
+          "color": null,
+          "outputs": {
+            "DateEnd": "2022-06-30"
+          },
+          "name": null
+        },
+        {
+          "id": null,
+          "value": 1655463.2,
+          "y": 1655463.2,
+          "z": null,
+          "region": null,
+          "color": null,
+          "outputs": {
+            "DateEnd": "2022-09-30"
+          },
+          "name": null
+        },
+        {
+          "id": null,
+          "value": 2339345.6,
+          "y": 2339345.6,
+          "z": null,
+          "region": null,
+          "color": null,
+          "outputs": {
+            "DateEnd": "2022-12-31"
+          },
+          "name": null
+        }
+      ],
+      "useChangeIcon": null
+    },
+    {
+      "index": 2023,
+      "yAxis": 0,
+      "factorCode": null,
+      "name": {
+        "kk": "2023",
+        "ru": "2023",
+        "en": "2023"
+      },
+      "measure": {
+        "kk": null,
+        "ru": null,
+        "en": null
+      },
+      "type": null,
+      "color": "#34c3eb",
+      "detalization": null,
+      "dataLabel": null,
+      "data": [
+        {
+          "id": null,
+          "value": 535626.1,
+          "y": 535626.1,
+          "z": null,
+          "region": null,
+          "color": null,
+          "outputs": {
+            "DateEnd": "2023-03-31"
+          },
+          "name": null
+        },
+        {
+          "id": null,
+          "value": 1128982.4,
+          "y": 1128982.4,
+          "z": null,
+          "region": null,
+          "color": null,
+          "outputs": {
+            "DateEnd": "2023-06-30"
+          },
+          "name": null
+        },
+        null,
+        null
+      ],
+      "useChangeIcon": null
+    }
+  ],
+  "categories": [
+    {
+      "code": null,
+      "kk": "31.03",
+      "ru": "31.03",
+      "en": "31.03"
+    },
+    {
+      "code": null,
+      "kk": "30.06",
+      "ru": "30.06",
+      "en": "30.06"
+    },
+    {
+      "code": null,
+      "kk": "30.09",
+      "ru": "30.09",
+      "en": "30.09"
+    },
+    {
+      "code": null,
+      "kk": "31.12",
+      "ru": "31.12",
+      "en": "31.12"
+    }
+  ],
+  "valueAxises": [
+    {
+      "startOnZero": true
+    }
+  ],
+  "defaultOutputs": {
+    "DateEnd": "2023-06-30"
+  },
+  "detalization": null,
+  "scheme": null,
+  "approvementId": null,
+  "config": {
+    "register": {
+      "pageLimit": 0
+    }
+  }
+}

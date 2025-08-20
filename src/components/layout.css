@@ -1,0 +1,59 @@
+/* ==== Шапка ==== */
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  padding: 15px 20px;
+  background-color: #1f4fae;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+}
+
+/* Ссылки */
+.header a {
+  text-decoration: none;
+  color: white;
+  font-size: 16px;
+  font-weight: 500;
+  transition: color 0.2s, transform 0.2s;
+}
+
+/* hover-эффект */
+.header a:hover {
+  color: #ffcc00;
+  transform: scale(1.05);
+}
+
+/* активная ссылка (NavLink добавляет .active) */
+.header a.active {
+  border-bottom: 2px solid #ffcc00;
+  padding-bottom: 2px;
+}
+
+/* ==== Футер ==== */
+footer {
+  margin-top: 40px;
+  padding: 15px;
+  text-align: center;
+  font-size: 14px;
+  color: #555;
+  background-color: #f7f7f7;
+}
+
+/* 📱 Адаптив для мобилок */
+@media (max-width: 768px) {
+  .header {
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px;
+  }
+
+  .header a {
+    font-size: 14px;
+  }
+
+  footer {
+    font-size: 12px;
+    padding: 10px;
+  }
+}

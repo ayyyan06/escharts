@@ -1,0 +1,58 @@
+/* ==== Шапка ==== */
+.header {
+  background-color: #302f2f;
+  text-align: center;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 25px; /* расстояние между ссылками */
+}
+
+/* Ссылки */
+.header a {
+  color: white;
+  font-size: 20px;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.header a:hover {
+  color: #ffcc00;
+}
+
+.header a.active {
+  color: rgb(12, 117, 255);
+}
+
+/* ==== Контент ==== */
+body {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+  margin: 20px;
+}
+
+p {
+  padding: 10px;
+}
+
+/* 📱 Адаптив для экранов < 768px */
+@media (max-width: 768px) {
+  .header {
+    flex-direction: column;
+    height: auto;
+    padding: 15px 0;
+    gap: 10px;
+  }
+
+  .header a {
+    font-size: 18px;
+    line-height: normal;
+    margin: 0;
+  }
+}

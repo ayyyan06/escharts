@@ -1,0 +1,215 @@
+{
+  "chartId": "624eac59c52ce51b78097dcb",
+  "type": "Scheme",
+  "cube": "AhdCubeData_115_2",
+  "name": {
+    "kk": "Ірі қара мал",
+    "ru": "Поголовье КРС по району",
+    "en": "Livestock of cattle"
+  },
+  "series": [
+    {
+      "index": 0,
+      "yAxis": 0,
+      "factorCode": null,
+      "name": {
+        "kk": "Ірі қара мал",
+        "ru": "Поголовье КРС по району",
+        "en": "Livestock of cattle"
+      },
+      "measure": {
+        "kk": null,
+        "ru": null,
+        "en": null
+      },
+      "type": null,
+      "color": "#44944A",
+      "detalization": null,
+      "dataLabel": {
+        "step": 1,
+        "enabled": true
+      },
+      "data": [
+        {
+          "id": null,
+          "value": 8134,
+          "y": 8134,
+          "z": null,
+          "region": "435200000",
+          "color": null,
+          "outputs": {
+            "DateEnd": "2025-03-31",
+            "District": "5d24519fcbbc350ca4fad6fb"
+          },
+          "name": null
+        },
+        {
+          "id": null,
+          "value": 3725,
+          "y": 3725,
+          "z": null,
+          "region": "434800000",
+          "color": null,
+          "outputs": {
+            "DateEnd": "2025-03-31",
+            "District": "5d24519fcbbc350ca4fad6fa"
+          },
+          "name": null
+        },
+        {
+          "id": null,
+          "value": 3192,
+          "y": 3192,
+          "z": null,
+          "region": "434600000",
+          "color": null,
+          "outputs": {
+            "DateEnd": "2025-03-31",
+            "District": "5d24519fcbbc350ca4fad6f9"
+          },
+          "name": null
+        },
+        {
+          "id": null,
+          "value": 5031,
+          "y": 5031,
+          "z": null,
+          "region": "434400000",
+          "color": null,
+          "outputs": {
+            "DateEnd": "2025-03-31",
+            "District": "61c5ddb082421727d8c6ecfd"
+          },
+          "name": null
+        },
+        {
+          "id": null,
+          "value": 7050,
+          "y": 7050,
+          "z": null,
+          "region": "434000000",
+          "color": null,
+          "outputs": {
+            "DateEnd": "2025-03-31",
+            "District": "5d24519fcbbc350ca4fad6f7"
+          },
+          "name": null
+        },
+        {
+          "id": null,
+          "value": 3244,
+          "y": 3244,
+          "z": null,
+          "region": "433600000",
+          "color": null,
+          "outputs": {
+            "DateEnd": "2025-03-31",
+            "District": "5d24519fcbbc350ca4fad6f6"
+          },
+          "name": null
+        },
+        {
+          "id": null,
+          "value": 5138,
+          "y": 5138,
+          "z": null,
+          "region": "433200000",
+          "color": null,
+          "outputs": {
+            "DateEnd": "2025-03-31",
+            "District": "5d24519fcbbc350ca4fad6f5"
+          },
+          "name": null
+        },
+        {
+          "id": null,
+          "value": 2548,
+          "y": 2548,
+          "z": null,
+          "region": "431000000",
+          "color": null,
+          "outputs": {
+            "DateEnd": "2025-03-31",
+            "District": "5d24519fcbbc350ca4fad6fc"
+          },
+          "name": null
+        }
+      ],
+      "useChangeIcon": null
+    }
+  ],
+  "categories": [
+    {
+      "code": "435200000",
+      "kk": "Шиелі",
+      "ru": "Шиелийский",
+      "en": null
+    },
+    {
+      "code": "434800000",
+      "kk": "Сырдария",
+      "ru": "Сырдарьинский",
+      "en": null
+    },
+    {
+      "code": "434600000",
+      "kk": "Қармақшы",
+      "ru": "Кармакшинский",
+      "en": null
+    },
+    {
+      "code": "434400000",
+      "kk": "Қазалы",
+      "ru": "Казалинский",
+      "en": null
+    },
+    {
+      "code": "434000000",
+      "kk": "Жаңақорған",
+      "ru": "Жанакорганский",
+      "en": null
+    },
+    {
+      "code": "433600000",
+      "kk": "Жалағаш",
+      "ru": "Жалагашский",
+      "en": null
+    },
+    {
+      "code": "433200000",
+      "kk": "Арал",
+      "ru": "Аральский",
+      "en": null
+    },
+    {
+      "code": "431000000",
+      "kk": "Қызылорда  қ.",
+      "ru": "г. Кызылорда",
+      "en": null
+    }
+  ],
+  "valueAxises": [
+    {
+      "startOnZero": true
+    }
+  ],
+  "defaultOutputs": {
+    "DateEnd": "2025-03-31",
+    "District": "5d24519fcbbc350ca4fad6fc"
+  },
+  "detalization": null,
+  "scheme": {
+    "levelChartIds": {
+      "world": null,
+      "country": null,
+      "region": "624eac59c52ce51b78097dcb"
+    },
+    "rootCode": "430000000"
+  },
+  "approvementId": null,
+  "config": {
+    "register": {
+      "pageLimit": 0
+    }
+  }
+}

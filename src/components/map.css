@@ -1,0 +1,38 @@
+.chart-container {
+  padding: 20px;
+  background-color: #f0f0f0;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.btns {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 15px;
+  justify-content: center;
+}
+
+.btns button {
+  padding: 8px 16px;
+  font-size: 14px;
+  border: none;
+  background: #1f4fae;
+  color: #fff;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.btns button:hover {
+  background: #163a82;
+}
+
+@media (max-width: 768px) {
+  .chart-container {
+    padding: 10px;
+  }
+  .btns button {
+    flex: 1 1 40%;
+    font-size: 12px;
+  }
+}

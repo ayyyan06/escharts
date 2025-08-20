@@ -1,0 +1,429 @@
+{
+  "chartId": "624e691fc52ce51b78097afc",
+  "type": "Scheme",
+  "cube": "AhdCubeData_100_2",
+  "name": {
+    "kk": "Тұтыну бағасының индексі. Өткен кезеңге есеп беру кезеңі",
+    "ru": "Индекс потребительских цен. Отчетный период к предыдущему периоду по области",
+    "en": "Consumer price index. Reporting period to the previous period"
+  },
+  "series": [
+    {
+      "index": 0,
+      "yAxis": 0,
+      "factorCode": null,
+      "name": {
+        "kk": "Тұтыну бағасының индексі. Өткен кезеңге есеп беру кезеңі",
+        "ru": "Индекс потребительских цен. Отчетный период к предыдущему периоду по области",
+        "en": "Consumer price index. Reporting period to the previous period"
+      },
+      "measure": {
+        "kk": null,
+        "ru": null,
+        "en": null
+      },
+      "type": null,
+      "color": "#44944A",
+      "detalization": null,
+      "dataLabel": {
+        "step": 1,
+        "enabled": true
+      },
+      "data": [
+        {
+          "id": null,
+          "value": 100.6,
+          "y": 100.6,
+          "z": null,
+          "region": "110000000",
+          "color": null,
+          "outputs": {
+            "DateEnd": "2023-11-30",
+            "Kato": "5d1ca697cbbc35056484bdb5"
+          },
+          "name": null
+        },
+        {
+          "id": null,
+          "value": 101.5,
+          "y": 101.5,
+          "z": null,
+          "region": "150000000",
+          "color": null,
+          "outputs": {
+            "DateEnd": "2023-11-30",
+            "Kato": "5d1ca6a6cbbc35056484bdbb"
+          },
+          "name": null
+        },
+        {
+          "id": null,
+          "value": 100.7,
+          "y": 100.7,
+          "z": null,
+          "region": "190000000",
+          "color": null,
+          "outputs": {
+            "DateEnd": "2023-11-30",
+            "Kato": "5d1ca681cbbc35056484bdaf"
+          },
+          "name": null
+        },
+        {
+          "id": null,
+          "value": 100.7,
+          "y": 100.7,
+          "z": null,
+          "region": "230000000",
+          "color": null,
+          "outputs": {
+            "DateEnd": "2023-11-30",
+            "Kato": "5d1ca6b4cbbc35056484bdc1"
+          },
+          "name": null
+        },
+        {
+          "id": null,
+          "value": 101,
+          "y": 101,
+          "z": null,
+          "region": "270000000",
+          "color": null,
+          "outputs": {
+            "DateEnd": "2023-11-30",
+            "Kato": "5d1ca6e8cbbc35056484bdd9"
+          },
+          "name": null
+        },
+        {
+          "id": null,
+          "value": 101.1,
+          "y": 101.1,
+          "z": null,
+          "region": "310000000",
+          "color": null,
+          "outputs": {
+            "DateEnd": "2023-11-30",
+            "Kato": "5d1ca6cccbbc35056484bdcd"
+          },
+          "name": null
+        },
+        {
+          "id": null,
+          "value": 101.3,
+          "y": 101.3,
+          "z": null,
+          "region": "350000000",
+          "color": null,
+          "outputs": {
+            "DateEnd": "2023-11-30",
+            "Kato": "5d1ca6fbcbbc35056484bddf"
+          },
+          "name": null
+        },
+        {
+          "id": null,
+          "value": 100.7,
+          "y": 100.7,
+          "z": null,
+          "region": "390000000",
+          "color": null,
+          "outputs": {
+            "DateEnd": "2023-11-30",
+            "Kato": "5d1ca6d7cbbc35056484bdd3"
+          },
+          "name": null
+        },
+        {
+          "id": null,
+          "value": 100.8,
+          "y": 100.8,
+          "z": null,
+          "region": "430000000",
+          "color": null,
+          "outputs": {
+            "DateEnd": "2023-11-30",
+            "Kato": "5d1ca708cbbc35056484bde5"
+          },
+          "name": null
+        },
+        {
+          "id": null,
+          "value": 101.4,
+          "y": 101.4,
+          "z": null,
+          "region": "470000000",
+          "color": null,
+          "outputs": {
+            "DateEnd": "2023-11-30",
+            "Kato": "5d1ca717cbbc35056484bdeb"
+          },
+          "name": null
+        },
+        {
+          "id": null,
+          "value": 101.6,
+          "y": 101.6,
+          "z": null,
+          "region": "550000000",
+          "color": null,
+          "outputs": {
+            "DateEnd": "2023-11-30",
+            "Kato": "5d1ca726cbbc35056484bdf1"
+          },
+          "name": null
+        },
+        {
+          "id": null,
+          "value": 100.8,
+          "y": 100.8,
+          "z": null,
+          "region": "590000000",
+          "color": null,
+          "outputs": {
+            "DateEnd": "2023-11-30",
+            "Kato": "5d1ca737cbbc35056484bdf7"
+          },
+          "name": null
+        },
+        {
+          "id": null,
+          "value": 101.3,
+          "y": 101.3,
+          "z": null,
+          "region": "610000000",
+          "color": null,
+          "outputs": {
+            "DateEnd": "2023-11-30",
+            "Kato": "5d244c23cbbc350ca4fad61b"
+          },
+          "name": null
+        },
+        {
+          "id": null,
+          "value": 100.9,
+          "y": 100.9,
+          "z": null,
+          "region": "630000000",
+          "color": null,
+          "outputs": {
+            "DateEnd": "2023-11-30",
+            "Kato": "5d1ca6bfcbbc35056484bdc7"
+          },
+          "name": null
+        },
+        {
+          "id": null,
+          "value": 100.9,
+          "y": 100.9,
+          "z": null,
+          "region": "710000000",
+          "color": null,
+          "outputs": {
+            "DateEnd": "2023-11-30",
+            "Kato": "5d1ca766cbbc35056484be08"
+          },
+          "name": null
+        },
+        {
+          "id": null,
+          "value": 100.8,
+          "y": 100.8,
+          "z": null,
+          "region": "750000000",
+          "color": null,
+          "outputs": {
+            "DateEnd": "2023-11-30",
+            "Kato": "5d1ca78fcbbc35056484be12"
+          },
+          "name": null
+        },
+        {
+          "id": null,
+          "value": 100.9,
+          "y": 100.9,
+          "z": null,
+          "region": "790000000",
+          "color": null,
+          "outputs": {
+            "DateEnd": "2023-11-30",
+            "Kato": "5d244c3ecbbc350ca4fad622"
+          },
+          "name": null
+        },
+        {
+          "id": null,
+          "value": 100.7,
+          "y": 100.7,
+          "z": null,
+          "region": "100000000",
+          "color": null,
+          "outputs": {
+            "DateEnd": "2023-11-30",
+            "Kato": "5d1ca799cbbc35056484be20"
+          },
+          "name": null
+        },
+        {
+          "id": null,
+          "value": 101.0,
+          "y": 101.0,
+          "z": null,
+          "region": "330000000",
+          "color": null,
+          "outputs": {
+            "DateEnd": "2023-11-30",
+            "Kato": "5d1ca7aacbbc35056484be29"
+          },
+          "name": null
+        },
+        {
+          "id": null,
+          "value": 100.9,
+          "y": 100.9,
+          "z": null,
+          "region": "356000000",
+          "color": null,
+          "outputs": {
+            "DateEnd": "2023-11-30",
+            "Kato": "5d1ca7bbcbbc35056484be33"
+          },
+          "name": null
+        }
+      ],
+
+      "useChangeIcon": null
+    }
+  ],
+  "categories": [
+    {
+      "code": "230000000",
+      "kk": "Атырау облысы",
+      "ru": "Атырауская область",
+      "en": null
+    },
+    {
+      "code": "270000000",
+      "kk": "Батыс Қазақстан облысы",
+      "ru": "Западно-Казахстанская область",
+      "en": null
+    },
+    {
+      "code": "150000000",
+      "kk": "Ақтөбе облысы",
+      "ru": "Актюбинская область",
+      "en": null
+    },
+    {
+      "code": "470000000",
+      "kk": "Маңғыстау облысы",
+      "ru": "Мангистауская область",
+      "en": null
+    },
+    {
+      "code": "630000000",
+      "kk": "Шығыс Қазақстан облысы",
+      "ru": "Восточно-Казахстанская область",
+      "en": null
+    },
+    {
+      "code": "190000000",
+      "kk": "Алматы облысы",
+      "ru": "Алматинская область",
+      "en": null
+    },
+    {
+      "code": "310000000",
+      "kk": "Жамбыл облысы",
+      "ru": "Жамбылская область",
+      "en": null
+    },
+    {
+      "code": "430000000",
+      "kk": "Қызылорда облысы",
+      "ru": "Кызылординская область",
+      "en": null
+    },
+    {
+      "code": "610000000",
+      "kk": "Түркістан облысы",
+      "ru": "Туркестанская область",
+      "en": null
+    },
+    {
+      "code": "110000000",
+      "kk": "Ақмола облысы",
+      "ru": "Акмолинская область",
+      "en": null
+    },
+    {
+      "code": "590000000",
+      "kk": "Солтүстік Қазақстан облысы",
+      "ru": "Северо-Казахстанская область",
+      "en": null
+    },
+    {
+      "code": "550000000",
+      "kk": "Павлодар облысы",
+      "ru": "Павлодарская область",
+      "en": null
+    },
+    {
+      "code": "350000000",
+      "kk": "Қарағанды облысы",
+      "ru": "Карагандинская область",
+      "en": null
+    },
+    {
+      "code": "390000000",
+      "kk": "Қостанай облысы",
+      "ru": "Костанайская область",
+      "en": null
+    },
+    { "code": "750000000", "kk": "Алматы", "ru": "г. Алматы", "en": null },
+    { "code": "710000000", "kk": "Астана", "ru": "г. Астана", "en": null },
+    { "code": "790000000", "kk": "Шымкент", "ru": "г. Шымкент", "en": null },
+    {
+      "code": "100000000",
+      "kk": "Абай облысы",
+      "ru": "Абайская область",
+      "en": null
+    },
+    {
+      "code": "330000000",
+      "kk": "Жетісу облысы",
+      "ru": "Жетысуская область",
+      "en": null
+    },
+    {
+      "code": "356000000",
+      "kk": "Ұлытау облысы",
+      "ru": "Улытауская область",
+      "en": null
+    }
+  ],
+  "valueAxises": [
+    {
+      "startOnZero": true
+    }
+  ],
+  "defaultOutputs": {
+    "DateEnd": "2023-11-30",
+    "Kato": "5d244c3ecbbc350ca4fad622"
+  },
+  "detalization": null,
+  "scheme": {
+    "levelChartIds": {
+      "world": null,
+      "country": "624e691fc52ce51b78097afc",
+      "region": null
+    },
+    "rootCode": "0"
+  },
+  "approvementId": null,
+  "config": {
+    "register": {
+      "pageLimit": 0
+    }
+  }
+}
